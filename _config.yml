@@ -25,12 +25,11 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Zachary Frangella"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  # pronouns         : # example: "she/her"  
+  # bio              : "Short biography for the left-hand sidebar"
+  # employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "zfrangella@alumni.stanford.edu" 
 
   # Academic websites
   academia         : # URL
