@@ -5,8 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-# Teaching Experience
-
 ## Rensselaer Polytechnic Institute
 - **MATH 2400: Differential Equations** – Teaching Assistant  
   Term: Spring 2019
