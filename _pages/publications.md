@@ -35,11 +35,11 @@ Here is a list of my publications (organized by venue) and preprints. <br>
   _ICML, 2024, Oral (top 1.5% of submissions)_
 
 - [NysADMM: faster composite convex optimization via low-rank approximation](https://proceedings.mlr.press/v162/zhao22a.html)<br>
-  Shipu Zhao\*, Zachary Frangella\*, Madeleine Udell<br>  
+  Shipu Zhao\*, Zachary Frangella\*, Madeleine Udell<br>
   _ICML, 2022_
 
 - [Can we globally optimize cross-validation loss? Quasiconvexity in ridge regression](https://proceedings.neurips.cc/paper/2021/file/cc298d5bc587e1b650f80e10449ee9d5-Paper.pdf)<br>  
-  William T. Stephenson, Zachary Frangella, Madeleine Udell, Tamara Broderick<br>  
+  William T. Stephenson, Zachary Frangella, Madeleine Udell, Tamara Broderick<br>
   _NeurIPS, 2021_
 
 ## In the Pipeline
@@ -48,11 +48,11 @@ Here is a list of my publications (organized by venue) and preprints. <br>
   _Submitted_
 
 - [GeNIOS: an (almost) second-order operator-splitting solver for large-scale convex optimization](https://arxiv.org/pdf/2310.08333)<br>  
-  Theo Diamandis, Zachary Frangella, Shipu Zhao, Bartolomeo Stellato, Madeleine Udell<br>  
+  Theo Diamandis, Zachary Frangella, Shipu Zhao, Bartolomeo Stellato, Madeleine Udell<br>
   _Submitted_
 
 - [Robust, randomized preconditioning for kernel ridge regression](https://arxiv.org/pdf/2304.12465)<br>
-  Mateo Diaz, Ethan N. Epperly, Zachary Frangella, Joel A. Tropp, Robert J. Webber<br>  
+  Mateo Diaz, Ethan N. Epperly, Zachary Frangella, Joel A. Tropp, Robert J. Webber<br>
   _Submitted_
 
 - [Enhancing Physics-Informed Neural Networks Through Feature Engineering](https://arxiv.org/pdf/2502.07209)<br>
