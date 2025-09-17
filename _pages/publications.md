@@ -15,32 +15,32 @@ Here is a list of my publications (organized by venue) and preprints. <br>
 ## Journal Publications
 - [PROMISE: Preconditioned Stochastic Optimization Methods by Incorporating Scalable Curvature Estimates](https://jmlr.org/papers/v25/23-1187.html)<br>
 **Zachary Frangella**\*, Pratik Rathore\*, Shipu Zhao, Madeleine Udell<br>
-_JMLR, 2024_
+_Journal of Machine Learning Research, 2024_
 
 - [SketchySGD: Reliable Stochastic Optimization via Randomized Curvature Estimates](https://epubs.siam.org/doi/10.1137/23M1575330)<br>
   **Zachary Frangella**, Pratik Rathore, Shipu Zhao, Madeleine Udell<br>
-  _SIMODS, 2024_
+  _SIAM Journal on Mathematics of Data Science, 2024_
 
 - [Randomized Nyström Preconditioning](https://epubs.siam.org/doi/10.1137/21M1466244)<br>
   **Zachary Frangella**, Joel Tropp, Madeleine Udell<br>
-  _SIMAX, 2023_
+  _SIAM Journal on Matrix Analysis and Applications, 2023_
 
 ## Conference Publications
 - [CRONOS: Enhancing Deep Learning with Scalable GPU Accelerated Convex Neural Networks](https://openreview.net/pdf?id=YfLzYczAo3)<br>
   Miria Feng, **Zachary Frangella**, Mert Pilanci<br>
-  _NeurIPS, 2024_
+  _Advances in Neural Information Processing Systems, 2024_
   
 - [Challenges in Training PINNs: A Loss Landscape Perspective](https://proceedings.mlr.press/v235/rathore24a.html)<br>
   Pratik Rathore, Weimu Lei, **Zachary Frangella**, Lu Lu, Madeleine Udell<br>
-  _ICML, 2024, Oral (top 1.5% of submissions)_
+  _International Conference on Machine Learning, 2024, **Oral (top 1.5% of submissions)**_
 
 - [NysADMM: faster composite convex optimization via low-rank approximation](https://proceedings.mlr.press/v162/zhao22a.html)<br>
   Shipu Zhao\*, **Zachary Frangella**\*, Madeleine Udell<br>
-  _ICML, 2022_
+  _International Conference on Machine Learning, 2022_
 
 - [Can we globally optimize cross-validation loss? Quasiconvexity in ridge regression](https://proceedings.neurips.cc/paper/2021/file/cc298d5bc587e1b650f80e10449ee9d5-Paper.pdf)<br>  
   William T. Stephenson, **Zachary Frangella**, Madeleine Udell, Tamara Broderick<br>
-  _NeurIPS, 2021_
+  _Advances in Neural Information Processing Systems, 2021_
 
 ## In the Pipeline
 - [On the Linear Convergence of Generalized Newton Inexact ADMM](https://arxiv.org/pdf/2302.03863)<br>
