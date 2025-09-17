@@ -38,8 +38,8 @@ _Journal of Machine Learning Research, 2024_
   Shipu Zhao\*, **Zachary Frangella**\*, Madeleine Udell<br>
   _International Conference on Machine Learning, 2022_
 
-- [Can we globally optimize cross-validation loss? Quasiconvexity in ridge regression](https://proceedings.neurips.cc/paper/2021/file/cc298d5bc587e1b650f80e10449ee9d5-Paper.pdf)<br>  
-  William T. Stephenson, **Zachary Frangella**, Madeleine Udell, Tamara Broderick<br>
+- [Can we globally optimize cross-validation loss? Quasiconvexity in ridge regression](https://proceedings.neurips.cc/paper/2021/file/cc298d5bc587e1b650f80e10449ee9d5-Paper.pdf)<br>
+William T. Stephenson, **Zachary Frangella**, Madeleine Udell, Tamara Broderick<br>
   _Advances in Neural Information Processing Systems, 2021_
 
 ## In the Pipeline
