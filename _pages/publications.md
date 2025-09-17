@@ -67,6 +67,6 @@ Pratik Rathore, **Zachary Frangella**, Jiaming Yang, Michał Dereziński, Madele
  Pratik Rathore, **Zachary Frangella**, Sachin Garg, Shaghayegh Fazliani, Michał Dereziński, Madeleine Udell<br>
  _Submitted_
 
-- [SAPPHIRE: Preconditioned Stochcastic Variance Reduction for Faster Large-Scale Statistical Learning]()<br>
+- [SAPPHIRE: Preconditioned Stochcastic Variance Reduction for Faster Large-Scale Statistical Learning](https://github.com/zfrangella/zfrangella.github.io/files/SAPPHIRE.pdf)<br>
  Jingruo Sun, **Zachary Frangella**, Madeleine Udell<br>
  _Submitted_
