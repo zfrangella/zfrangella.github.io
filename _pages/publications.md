@@ -22,7 +22,7 @@ _Journal of Machine Learning Research, 2024_
   _SIAM Journal on Mathematics of Data Science, 2024_
 
 - [Randomized Nyström Preconditioning](https://epubs.siam.org/doi/10.1137/21M1466244)<br>
-  **Zachary Frangella**, Joel Tropp, Madeleine Udell<br>
+  **Zachary Frangella**, Joel A. Tropp, Madeleine Udell<br>
   _SIAM Journal on Matrix Analysis and Applications, 2023_
 
 ## Conference Publications
