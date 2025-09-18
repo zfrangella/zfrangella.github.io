@@ -26,6 +26,10 @@ _Journal of Machine Learning Research, 2024_
   _SIAM Journal on Matrix Analysis and Applications, 2023_
 
 ## Conference Publications
+- - [Turbocharging Gaussian Process Inference with Approximate Sketch-and-Project](https://arxiv.org/pdf/2505.13723?)<br>
+ Pratik Rathore, **Zachary Frangella**, Sachin Garg, Shaghayegh Fazliani, Michał Dereziński, Madeleine Udell<br>
+ _Accepted, Advances in Neural Information Processing Systems, 2025_
+
 - [CRONOS: Enhancing Deep Learning with Scalable GPU Accelerated Convex Neural Networks](https://openreview.net/pdf?id=YfLzYczAo3)<br>
   Miria Feng, **Zachary Frangella**, Mert Pilanci<br>
   _Advances in Neural Information Processing Systems, 2024_
@@ -62,10 +66,6 @@ Theo Diamandis, **Zachary Frangella**, Shipu Zhao, Bartolomeo Stellato, Madelein
 - [Have ASkotch: A Neat Solution for Large-scale Kernel Ridge Regression](https://arxiv.org/pdf/2407.10070?)<br>
 Pratik Rathore, **Zachary Frangella**, Jiaming Yang, Michał Dereziński, Madeleine Udell<br>
   _Submitted_
-
-- [Turbocharging Gaussian Process Inference with Approximate Sketch-and-Project](https://arxiv.org/pdf/2505.13723?)<br>
- Pratik Rathore, **Zachary Frangella**, Sachin Garg, Shaghayegh Fazliani, Michał Dereziński, Madeleine Udell<br>
- _Submitted_
 
 - [SAPPHIRE: Preconditioned Stochcastic Variance Reduction for Faster Large-Scale Statistical Learning](https://github.com/zfrangella/zfrangella.github.io/files/SAPPHIRE.pdf)<br>
  Jingruo Sun, **Zachary Frangella**, Madeleine Udell<br>
