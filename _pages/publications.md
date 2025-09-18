@@ -26,7 +26,7 @@ _Journal of Machine Learning Research, 2024_
   _SIAM Journal on Matrix Analysis and Applications, 2023_
 
 ## Conference Publications
-- - [Turbocharging Gaussian Process Inference with Approximate Sketch-and-Project](https://arxiv.org/pdf/2505.13723?)<br>
+- [Turbocharging Gaussian Process Inference with Approximate Sketch-and-Project](https://arxiv.org/pdf/2505.13723?)<br>
  Pratik Rathore, **Zachary Frangella**, Sachin Garg, Shaghayegh Fazliani, Michał Dereziński, Madeleine Udell<br>
  _Accepted, Advances in Neural Information Processing Systems, 2025_
 
