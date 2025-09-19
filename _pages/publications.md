@@ -75,7 +75,7 @@ Pratik Rathore, **Zachary Frangella**, Jiaming Yang, Michał Dereziński, Madele
   _Submitted_ <br>
   [\[code\]](https://github.com/pratikrathore8/fast_krr)
 
-- [SAPPHIRE: Preconditioned Stochcastic Variance Reduction for Faster Large-Scale Statistical Learning](https://github.com/zfrangella/zfrangella.github.io/files/SAPPHIRE.pdf)<br>
+- [SAPPHIRE: Preconditioned Stochcastic Variance Reduction for Faster Large-Scale Statistical Learning](/files/Sapphire.pdf)<br>
  Jingruo Sun, **Zachary Frangella**, Madeleine Udell<br>
  _Submitted_ <br>
 [\[code\]](https://github.com/udellgroup/sapphire)
