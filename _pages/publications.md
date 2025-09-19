@@ -8,7 +8,7 @@ Here is a list of my publications (organized by venue) and preprints. <br>
 \* denotes equal contribution
 
 ## Thesis
-- [Randomized Numerical Linear Algebra for Large-Scale Optimization](https://github.com/zfrangella/zfrangella.github.io/files/thesis.pdf)<br>
+- [Randomized Numerical Linear Algebra for Large-Scale Optimization](/files/thesis.pdf)<br>
   Zachary Frangella <br>
  _Stanford University Thesis, 2025_
 
