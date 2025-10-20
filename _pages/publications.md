@@ -13,6 +13,10 @@ Here is a list of my publications (organized by venue) and preprints. <br>
  _Stanford University Thesis, 2025_
 
 ## Journal Publications
+- [Enhancing Physics-Informed Neural Networks Through Feature Engineering](https://arxiv.org/pdf/2502.07209)<br>
+  Shaghayegh Fazliani, **Zachary Frangella**, Madeleine Udell<br>
+  _Accepted, Transactions on Machine Learning Research, 2025_
+
 - [PROMISE: Preconditioned Stochastic Optimization Methods by Incorporating Scalable Curvature Estimates](https://jmlr.org/papers/v25/23-1187.html)<br>
 **Zachary Frangella**\*, Pratik Rathore\*, Shipu Zhao, Madeleine Udell<br>
 _Journal of Machine Learning Research, 2024_ <br>
@@ -65,10 +69,6 @@ Theo Diamandis, **Zachary Frangella**, Shipu Zhao, Bartolomeo Stellato, Madelein
   Mateo Diaz, Ethan N. Epperly, **Zachary Frangella**, Joel A. Tropp, Robert J. Webber<br>
   _Submitted_ <br>
   [\[code\]](https://github.com/eepperly/Robust-randomized-preconditioning-for-kernel-ridge-regression)
-
-- [Enhancing Physics-Informed Neural Networks Through Feature Engineering](https://arxiv.org/pdf/2502.07209)<br>
-  Shaghayegh Fazliani, **Zachary Frangella**, Madeleine Udell<br>
-  _Submitted_
 
 - [Have ASkotch: A Neat Solution for Large-scale Kernel Ridge Regression](https://arxiv.org/pdf/2407.10070?)<br>
 Pratik Rathore, **Zachary Frangella**, Jiaming Yang, Michał Dereziński, Madeleine Udell<br>
