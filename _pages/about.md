@@ -10,7 +10,7 @@ redirect_from:
 
 About Me
 ======
-I am currently seeking full-time opportunities in industry. I recently finished my PhD in the Department of Management Science and Engineering at Stanford University advised by Madeleine Udell. Before Stanford, I was at the Center for Applied Mathematics at Cornell University, where I earned an M.S. degree in Applied Mathematics. I received my B.S. in Mathematics from Rensselaer Polytechnic Institute.
+I am currently seeking full-time opportunities in industry. I recently finished my PhD in machine learning and optimization at Stanford University advised by Madeleine Udell. Before Stanford, I was at the Center for Applied Mathematics at Cornell University, where I earned an M.S. degree in Applied Mathematics. I received my B.S. in Mathematics from Rensselaer Polytechnic Institute.
 
 Research Interests
 ======
