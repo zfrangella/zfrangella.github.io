@@ -13,9 +13,19 @@ Here is a list of my publications (organized by venue) and preprints. <br>
  _Stanford University Thesis, 2025_
 
 ## Journal Publications
-- [Enhancing Physics-Informed Neural Networks Through Feature Engineering](https://arxiv.org/pdf/2502.07209)<br>
+- [On the Linear Convergence of Generalized Newton Inexact ADMM](https://arxiv.org/pdf/2302.03863)<br>
+  **Zachary Frangella**, Theo Diamandis, Bartolomeo Stellato, Madeleine Udell<br>
+  _Accepted, Transactions on Machine Learning Research, 2025_ <br>
+  [\[code\]](https://github.com/tjdiamandis/GeNIADMM.jl)
+
+- [GeNIOS: an (almost) second-order operator-splitting solver for large-scale convex optimization](https://arxiv.org/pdf/2310.08333)<br>
+Theo Diamandis, **Zachary Frangella**, Shipu Zhao, Bartolomeo Stellato, Madeleine Udell<br>
+  _Accepted, Mathematical Programming Computation, 2025_ <br>
+  [\[code\]](https://github.com/tjdiamandis/GeNIOS.jl)
+
+- [Enhancing Physics-Informed Neural Networks Through Feature Engineering](https://openreview.net/pdf?id=J25OqR4pBB)<br>
   Shaghayegh Fazliani, **Zachary Frangella**, Madeleine Udell<br>
-  _Accepted, Transactions on Machine Learning Research, 2025_
+  _Transactions on Machine Learning Research, 2025_
 
 - [PROMISE: Preconditioned Stochastic Optimization Methods by Incorporating Scalable Curvature Estimates](https://jmlr.org/papers/v25/23-1187.html)<br>
 **Zachary Frangella**\*, Pratik Rathore\*, Shipu Zhao, Madeleine Udell<br>
@@ -55,16 +65,6 @@ William T. Stephenson, **Zachary Frangella**, Madeleine Udell, Tamara Broderick<
   _Advances in Neural Information Processing Systems, 2021_
 
 ## In the Pipeline
-- [On the Linear Convergence of Generalized Newton Inexact ADMM](https://arxiv.org/pdf/2302.03863)<br>
-  **Zachary Frangella**, Theo Diamandis, Bartolomeo Stellato, Madeleine Udell<br>
-  _Submitted_ <br>
-  [\[code\]](https://github.com/tjdiamandis/GeNIADMM.jl)
-
-- [GeNIOS: an (almost) second-order operator-splitting solver for large-scale convex optimization](https://arxiv.org/pdf/2310.08333)<br>
-Theo Diamandis, **Zachary Frangella**, Shipu Zhao, Bartolomeo Stellato, Madeleine Udell<br>
-  _Submitted_ <br>
-  [\[code\]](https://github.com/tjdiamandis/GeNIOS.jl)
-
 - [Robust, randomized preconditioning for kernel ridge regression](https://arxiv.org/pdf/2304.12465)<br>
   Mateo Diaz, Ethan N. Epperly, **Zachary Frangella**, Joel A. Tropp, Robert J. Webber<br>
   _Submitted_ <br>
