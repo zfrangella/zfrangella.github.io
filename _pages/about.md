@@ -10,7 +10,7 @@ redirect_from:
 
 About Me
 ======
-I am a research scientist at Granica working on large-scale machine learning and compression. Prior to joining Granica, I completed my PhD in machine learning and optimization at Stanford University, where I was advised by Madeleine Udell. I earned an M.S. in Applied Mathematics from the Center for Applied Mathematics at Cornell University and a B.S. in Mathematics from Rensselaer Polytechnic Institute.
+I am a research scientist at Granica working on large-scale machine learning and compression. Prior to joining Granica, I completed my PhD in machine learning and optimization at Stanford University. I earned an M.S. in Applied Mathematics from the Center for Applied Mathematics at Cornell University and a B.S. in Mathematics from Rensselaer Polytechnic Institute.
 
 Research Interests
 ======
